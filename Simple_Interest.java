@@ -1,3 +1,5 @@
+// Simple Interest | Input: P=1000 R=10 T=2 | Output: 200
+    
 import java.util.Scanner;
 
 public class Simple_Interest {
