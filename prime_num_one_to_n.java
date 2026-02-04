@@ -1,3 +1,6 @@
+// Prime Number Checker 
+// Prime Number - A number divisible by one and itself
+
 public class prime_num_one_to_n{
     public static void main(String[] args) {
         int N=3;
